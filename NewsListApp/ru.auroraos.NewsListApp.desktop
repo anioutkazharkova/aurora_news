@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.NewsListApp
+Exec=/usr/bin/ru.auroraos.NewsListApp
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=AccessSecurityLog;LogSecurityEvents;PushNotifications;DeviceInfo;Bluetooth;Internet;Location;WebView
+OrganizationName=ru.auroraos
+ApplicationName=NewsListApp
+ExecDBus=/usr/bin/ru.auroraos.NewsListApp
